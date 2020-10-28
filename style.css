@@ -1,0 +1,24 @@
+body{
+    background-color: navajowhite;
+    color: rgb(221, 40, 40);
+}
+
+h1#identificador {
+    color: maroon;
+    text-align: center;
+}
+
+p.carta{
+   position: relative;
+  
+}
+
+p.cafe{
+    position: relative;
+    left: 300px;
+}
+
+p.contacto{
+    position: relative;
+    left: 700px;
+}
